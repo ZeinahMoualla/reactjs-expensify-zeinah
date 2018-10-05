@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Zeinah Moualla",
-  "engines": {
-    "node": "10.10.0 ",
-  "license": "MIT",
+  
   "scripts": {
     "serve": "live-server public/",
     "build:dev": "webpack",
